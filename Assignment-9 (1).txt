@@ -1,4 +1,4 @@
-PS C:\Users\Garv\Desktop\mern-stack\learning\backend\Mongo-db> use collections
+PS C:\Users\dhruv\Desktop\mern-stack\learning\backend\Mongo-db> use collections
 use : The term 'use' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, 
 verify that the path is correct and try again.
 At line:1 char:1
@@ -7,7 +7,7 @@ At line:1 char:1
     + CategoryInfo          : ObjectNotFound: (use:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
  
-PS C:\Users\Bharat\Desktop\mern-stack\learning\backend\Mongo-db> mongosh
+PS C:\Users\dhruv\Desktop\mern-stack\learning\backend\Mongo-db> mongosh
 Current Mongosh Log ID: 67330ecb7450300bb40d818f
 Connecting to:          mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.3.3
 Using MongoDB:          8.0.3
